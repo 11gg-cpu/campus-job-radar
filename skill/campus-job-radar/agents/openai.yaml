@@ -1,0 +1,4 @@
+interface:
+  display_name: "校园招聘雷达"
+  short_description: "根据简历与求职偏好收集校招岗位、评级去重并维护投递进度"
+  default_prompt: "使用 $campus-job-radar 根据我的简历和求职偏好收集今日校招岗位，并更新本地投递清单。"
